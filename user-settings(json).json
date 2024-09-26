@@ -1,0 +1,27 @@
+// this settings not contains use of apc customize UI features
+
+{
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 2,
+    "editor.rulers": [80, 120],
+    "workbench.startupEditor": "newUntitledFile", 
+    "editor.renderLineHighlight": "gutter", "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false ,
+    "workbench.activityBar.location": "top",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.statusBar.visible": false,
+    "workbench.layoutControl.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false,
+    "files.autoSave": "afterDelay"
+}
