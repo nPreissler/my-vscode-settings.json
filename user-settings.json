@@ -1,16 +1,15 @@
-// this settings not contains use of apc customize UI features
-
 {
     "window.zoomLevel": -1,
-    "workbench.colorTheme": "Min Dark",
+    "workbench.colorTheme": "CodeSandbox Black",
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 14,
+    "editor.fontSize": 13.5,
     "editor.lineHeight": 2,
     "editor.rulers": [80, 120],
     "workbench.startupEditor": "newUntitledFile", 
-    "editor.renderLineHighlight": "gutter", "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter", 
+    "editor.fontLigatures": true,
     "workbench.editor.labelFormat": "short",
     "explorer.compactFolders": false,
     "editor.semanticHighlighting.enabled": false,
@@ -23,5 +22,8 @@
     "workbench.layoutControl.enabled": false,
     "window.menuBarVisibility": "compact",
     "window.commandCenter": false,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "workbench.tree.indent": 15,
+    "editor.stickyScroll.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
