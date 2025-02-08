@@ -25,5 +25,17 @@
     "files.autoSave": "afterDelay",
     "workbench.tree.indent": 15,
     "editor.stickyScroll.enabled": false,
-    "terminal.integrated.defaultProfile.windows": "Git Bash"
+    "extensions.trustedPublishers": [
+        "bmewburn",
+        "ecmel",
+        "mhutchie",
+        "miguelsolorio",
+        "ritwickdey",
+        "usernamehw",
+        "ziterz"
+    ],
+    "editor.codeLensFontFamily": "JetBrains Mono ",
+    "editor.inlayHints.fontFamily": "JetBrainsMono",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.fontSize": 13.7
 }
